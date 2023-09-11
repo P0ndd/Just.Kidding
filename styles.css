@@ -17,7 +17,7 @@ body {
 }
 
 #bigText {
-    font-size: 400px; /* ขนาดตัวอักษร */
+    font-size: 350px; /* ขนาดตัวอักษร */
     font-weight: bold; /* ตัวหนังสือหนา */
     white-space: nowrap; /* ไม่ขึ้นบรรทัดใหม่ */
     position: absolute;
